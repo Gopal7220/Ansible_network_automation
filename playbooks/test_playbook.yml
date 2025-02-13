@@ -1,5 +1,7 @@
 ---
-Name: First task
+- name: First task
+  debug:
+  msg: "Hey there"
 
 ###
 

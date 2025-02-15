@@ -3,6 +3,7 @@
   debug:
   msg: "Hey there"
   msg: "Hey how are you"
+  msg: "I'm trying to learn ansible my own"
 
 ###
 
